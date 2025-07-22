@@ -1,0 +1,16 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual Environment
+.venv/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# System Files
+.DS_Store
+
+# Model files (optional if you want to exclude other pkl/json later)
+#*.pkl
+#*.json
