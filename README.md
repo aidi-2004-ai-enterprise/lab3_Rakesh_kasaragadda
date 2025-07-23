@@ -1,7 +1,9 @@
 # lab3_Rakesh_kasaragadda
 # Lab 3: Penguins Classification with XGBoost and FastAPI
 
-🎥 **[Click here to watch the demo](./Rakesh_Lab3_Demo.mp4)**
+## 🎥 Demo
+
+![Demo](rakesh_demo.gif)
 
 This project focuses on building a machine learning pipeline using the Seaborn Penguins dataset. 
 
@@ -23,7 +25,8 @@ lab3_Rakesh_kasaragadda/
 ├── train.py                    # Script to train and save model artifacts
 ├── pyproject.toml             # Project dependencies managed using uv
 ├── uv.lock                    # Lock file for reproducible builds
-├── .gitignore                 # Git ignore file
+├── rakesh_demo.gif            # Git ignore file
+├── .gitignore                 #gif
 ├── Rakesh_Lab3_Demo.mp4       # Demo screen recording of the application
 └── README.md                  # Project documentation
 ```
