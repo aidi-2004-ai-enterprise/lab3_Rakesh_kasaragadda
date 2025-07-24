@@ -36,7 +36,7 @@ This project demonstrates how to build and deploy a machine learning pipeline us
 
 ---
 
-### 🔧 Installation
+###  Installation
 
 Clone the repository and navigate into the project:
 
@@ -54,7 +54,7 @@ uv pip install -r pyproject.toml
 
 ---
 
-## 🏋️‍♂️ Train the Model
+## Train the Model
 
 ```bash
 python train.py
@@ -69,7 +69,7 @@ under `app/data/`
 
 ---
 
-## 🖥️ Run the FastAPI App
+## Run the FastAPI App
 
 ```bash
 uvicorn app.main:app --reload
